@@ -2,8 +2,8 @@ junk-txt.txt
 
 
 /Blockchain-Eth-Payment/.env
-/Blockchain-Eth-Payment/build/*
+/Blockchain-Eth-Payment/build/
 /Blockchain-Eth-Payment/package-lock.json
 
-/Blockchain-API/node_modules/*
+/Blockchain-API/node_modules/
 /Blockchain-API/package-lock.json
